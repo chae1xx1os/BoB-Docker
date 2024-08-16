@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+jinja2
+sqlalchemy
+pymysql
+requests
+virustotal3
+slack-sdk==3.11.0
